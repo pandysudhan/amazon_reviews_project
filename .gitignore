@@ -1,1 +1,3 @@
 /data/
+/venv/
+code/tfidf_model.pkl
